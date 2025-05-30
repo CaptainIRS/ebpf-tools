@@ -1,0 +1,7 @@
+[requires]
+opentelemetry-cpp/1.18.0
+perfetto/48.1
+
+[generators]
+CMakeDeps
+CMakeToolchain
